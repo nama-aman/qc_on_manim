@@ -1,2 +1,2 @@
-# qc_on_manim
-Quantum Computing Visualization using python package: Manim
+# quantum-manim-animation
+Animations for QC classes
